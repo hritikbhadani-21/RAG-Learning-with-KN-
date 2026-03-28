@@ -1,0 +1,15 @@
+langserve
+fastapi
+uvicorn
+groq
+langchain-groq
+sse-starlette
+bs4
+pypdf
+chromadb
+faiss-cpu
+cassio
+beautifulsoup4
+wikipedia
+arxiv
+langchainhub
